@@ -1,0 +1,19 @@
+[
+    {
+        "title":"test",
+        "price":6,
+        "description":"This is a first product - amazing!"
+    }
+    ,
+    {
+        "title":"test1",
+        "price":15,
+        "description":"This is a second product - amazing!"
+    }
+    ,
+    {
+        "title":"test2",
+        "price":28,
+        "description":"This is a third product - amazing!"
+    }
+]
